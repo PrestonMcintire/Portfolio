@@ -1,6 +1,12 @@
 body{
     color: white;
-    background-color: #1c1a18;
+    background-color: #100f11;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+}
+
+.pfp{
+    width: 10%;
+    border-radius: 5%;
+    margin-top: 3%;
 }
