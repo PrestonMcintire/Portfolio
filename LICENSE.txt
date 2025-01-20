@@ -1,0 +1,32 @@
+Copyright (c) 2025 Preston Mcintire
+
+Permission to Use
+
+1.  You are free to use, modify, and distribute this website template as a whole or in part under the terms of this license.
+2.  Credit Requirement: You must provide appropriate credit to the original creator Preston Mcintire in a manner specified by Preston Mcintire (e.g., a link back to the original site or direct attribution).
+3.  Prohibition on Original Content:
+    -  You are not permitted to copy, use, or redistribute any original content found within this website, including but not limited to:
+        Text (such as blog posts, articles, or other original writing)
+        Images and graphics
+        Multimedia (such as videos or audio)
+        Any other original materials
+4.  Content Replacement: You must remove all original content and replace it entirely with your own content before using the template.
+5.  Copyleft: Any derivative works created using this template must be shared under the same terms as this license.
+
+License Terms
+
+This template is provided "as-is," without any express or implied warranty. The creator [Your Name] is not liable for any damages arising from its use.
+
+By using this website template, you agree to be bound by the terms of this License. If you do not agree with the terms of this License, you are not permitted to use, modify or distribute this template.
+
+---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Copyleft
+
+This template is distributed under a Copyleft license, meaning that the source code and any derivatives must be made available under the same terms and conditions.
