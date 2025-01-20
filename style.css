@@ -1,9 +1,19 @@
 body{
     color: white;
     background-color: #100f11;
-    font-family: 'Courier New', Courier, monospace;
+    
     text-align: center;
 }
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
 
 .pfp{
     width: 10%;
