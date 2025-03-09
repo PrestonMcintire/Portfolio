@@ -1,0 +1,112 @@
+# TERMS OF SERVICE
+# Permission to crawl our website is granted only to web crawlers or scrapers that provide proper attribution to our site in their outputs.
+# Any crawler or scraper that fails to give credit is strictly prohibited from accessing any portion of our website.
+# Automated systems that do not adhere to these terms are barred from crawling our content.
+# By accessing our website, you agree to these conditions. Noncompliance may result in your IP address being blocked.
+# Additionally, any web crawler or scraper that monetizes data extracted from this site without authorization is expressly forbidden.
+
+# Trusted | Can only Crawl twice a day.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: Applebot
+User-agent: LinkedInBot
+User-agent: Twitterbot
+User-agent: Pinterestbot
+User-agent: Facebook External Hit
+User-agent: Facebook Crawler
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: sogou spider
+User-agent: Slurp
+User-agent: CCbot
+User-agent: Yeti
+User-agent: Discordbot
+
+Crawl-delay: 43200 # 12 hours
+
+
+# Blacklisted | Known bots used for unethical purposes or web scraping.
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Bytespider
+User-agent: ChatGPT-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ImagesiftBot
+User-agent: ImagesiftBot
+User-agent: LightspeedSystemsCrawler
+User-agent: NetcraftSurveyAgent
+User-agent: PiplBot
+User-agent: Scrapy
+User-agent: SMTBot
+User-agent: Twingly
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: anthropic-ai
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: linkfluence
+User-agent: omgili
+User-agent: omgilibot
+User-agent: proximic
+User-agent: scoop.it
+User-agent: trendictionbot
+User-agent: um-LN
+User-agent: ZoominfoBot
+User-agent: 008
+User-agent: Dataprovider.com
+User-agent: dcrawl
+User-agent: HTTrack
+User-agent: HTTrack 3.0
+User-agent: MetaInspector
+User-agent: newspaper
+User-agent: Nutch
+User-agent: Offline Explorer
+User-agent: OpenindexSpider
+User-agent: BackDoorBot
+User-agent: BDCbot
+User-agent: BomboraBot
+User-agent: CC Metadata Scaper
+User-agent: CheckMarkNetwork
+User-agent: CISPA Webcrawler
+User-agent: Clickagy
+User-agent: coexel
+User-agent: CopyRightCheck
+User-agent: Corporama 
+User-agent: CyberPatrol
+User-agent: EmailCollector
+User-agent: EmailSiphon
+User-agent: EmailWolf 
+User-agent: EveryoneSocialBot 
+User-agent: ExtractorPro
+User-agent: Eyeotabot 
+User-agent: Facebot 
+User-agent: Genieo
+User-agent: Harvest
+User-agent: humanlinks
+User-agent: hyscore.io
+User-agent: InfoNaviRobot 
+User-agent: infoobot
+
+
+
+
+Disallowed: /
+
+
+# Other | Any bot that is not mentioned above can only crawl once a day.
+User-agent: *
+Crawl-delay: 86400 # 24 hours
+
+
+
+# Disallowed Pages/Images
+User-agent: *
+Disallow: dashboard.html
+
+
+# Sitemap
+Sitemap: https://example.com/sitemap.xml
